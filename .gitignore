@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+
+# Environment folders
+env/
+venv/
+.venv/
+
+# Jupyter and Streamlit
+.ipynb_checkpoints/
+.streamlit/
+
+# Data files
+*.csv
+*.xlsx
+*.zip
+
+# IDE files
+.vscode/
+.idea/
